@@ -1,7 +1,7 @@
 # AI-Driven Cyber Threat Awareness and Detection Prototype
 
-**Name:** Srishti Kainth
-**Roll No:** 2301730175
+**Name:** Meenakshi
+**Roll No:** 2301730200
 **Course:** AI in Cyber Security Lab (ENSP355) — Lab Assignment 01 (Unit 1)
 **Faculty:** Dr. Monika Khatkar
 **University:** K.R. Mangalam University
